@@ -1,7 +1,7 @@
-id=MGLRU-FIX
-name=MGLRU FIX Module
+id=mglru-disabler
+name=MGLRU DISABLER Module
 version=v1
 versionCode=1
 author=Luca Durando
-description=Prevent freezes on MGLRU devices using magisk
+description=Prevent freezes on MGLRU devices using magisk by disabling MGLRU on every boot
 template=3
