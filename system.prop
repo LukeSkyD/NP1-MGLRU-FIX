@@ -1,3 +1,2 @@
 # This file will be read by resetprop
-
 persist.sys.mglru_enable=false

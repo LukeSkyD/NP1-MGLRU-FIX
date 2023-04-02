@@ -3,5 +3,5 @@ name=MGLRU FIX Module
 version=v1
 versionCode=1
 author=Luca Durando
-description=Module with at script run at boot to prevent freezes on MGLRU devices
+description=Prevent freezes on MGLRU devices using magisk
 template=3
