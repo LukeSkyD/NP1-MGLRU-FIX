@@ -1,6 +1,6 @@
 HOW TO INSTALL
 
-1. Download the latest version of the module from the [releases page]()
+1. Download the latest version of the module from the [releases page](https://github.com/LukeSkyD/NP1-MGLRU-FIX/releases/tag/release)
 
 2. Install the module with Magisk Manager
 
