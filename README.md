@@ -1,4 +1,7 @@
-HOW TO INSTALL
+WIP:
+Special Thanks to @yujincheng08 , @canyie , @vvb2060 and @aviraxp for helping and indicating this (possible) solution.
+
+HOW TO INSTALL (COLD BOOT IS NECESSARY AFTER INSTALLATION)
 
 1. Download the latest version of the module from the [releases page](https://github.com/LukeSkyD/NP1-MGLRU-FIX/releases/tag/release)
 
