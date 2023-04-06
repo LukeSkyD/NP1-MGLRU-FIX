@@ -1,0 +1,2 @@
+# Property service
+deny { init system_file system_server system_app priv_app platform_app vendor_file vendor_configs_file } sys.mglru_enable property_service write
