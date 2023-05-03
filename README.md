@@ -11,6 +11,7 @@ SPECIAL THANKS
 * @aviraxp for pointing me in the right direction
 * @gwolf2u from xda
 * @yujincheng08, @canyie, @vvb2060 from Magisk's repo
+* @s-a-m for helping licensing this module
 
 
 HOW TO INSTALL
