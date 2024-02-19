@@ -1,4 +1,4 @@
-#    MGLRU-FIX stops crashes by rendering non-functional the MGLRU feature
+#    MGLRU-FIX stops crashes on 1.5.3 / (.HOTFIX) by rendering non-functional the MGLRU feature
 #    Copyright (C) 2023  Luca Durando
 #
 #    This program is free software: you can redistribute it and/or modify
@@ -14,5 +14,7 @@
 #    You should have received a copy of the GNU Affero General Public License
 #    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-echo 0 > /sys/kernel/mm/lru_gen/enabled
-chmod 444 /sys/kernel/mm/lru_gen/enabled
+if [ "$(getprop ro.nothing.version.id)" = "1.5.3" ]; then
+    echo 0 > /sys/kernel/mm/lru_gen/enabled
+    chmod 444 /sys/kernel/mm/lru_gen/enabled
+fi

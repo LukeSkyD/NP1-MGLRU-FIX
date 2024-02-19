@@ -1,9 +1,9 @@
-MGLRUDISABLER
+MGLRU FIX - MGLRUDISABLER
 =
 ***!***
 THIS MODULE IS A WORKAROUND FOR FREEZES AND CRASHES ON 1.5.3(/HOTFIX) ON NOTHING PHONE (1)
 
-REMEMBER TO DISABLE IT BEFORE UPDATING THE PHONE TO A NEWER SW VERSION
+REMEMBER TO DISABLE IT BEFORE UPDATING THE PHONE TO A NEWER FW VERSION
 ***!***
 
 SPECIAL THANKS
@@ -20,7 +20,7 @@ HOW TO INSTALL
 
 2. Open Magisk, select Modules, Install from storage and go pick the latest downloaded module
 
-3. V3 users can simply reboot their phones, while for V1 and V2 cold boot is necessary, so fully power off your device before turning it back on.
+3. V3 and Fix users can simply reboot their phones, while for V1 and V2 cold boot is necessary, so fully power off your device before turning it back on.
 
 4. Enjoy
 
